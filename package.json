@@ -1,0 +1,19 @@
+{
+  "name": "flashcards",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbondarenko/flashcards.git"
+  },
+  "author": "Kirill Bondarenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbondarenko/flashcards/issues"
+  },
+  "homepage": "https://github.com/kbondarenko/flashcards#readme"
+}
