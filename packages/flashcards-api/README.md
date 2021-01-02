@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-const flashcardsApi = require('flashcards-api');
+const index = require('flashcards-api');
 
 // TODO: DEMONSTRATE API
 ```
