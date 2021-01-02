@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kbondarenko/flashcards/issues"
   },
-  "homepage": "https://github.com/kbondarenko/flashcards#readme"
+  "homepage": "https://github.com/kbondarenko/flashcards#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
 }
