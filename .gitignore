@@ -1,0 +1,13 @@
+#dev
+/.idea
+
+# compiled output
+/.build
+/.deploy
+/tmp
+
+# dependencies
+/node_modules
+
+# misc
+*.orig
